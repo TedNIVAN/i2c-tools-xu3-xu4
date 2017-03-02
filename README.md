@@ -14,8 +14,7 @@
 
 ## 2. Give the permissions
 `adb shell`<br />
-`cd /system/bin`<br />
-`chmod 0777 i2c*`
+`chmod 0777 /system/bin/i2c*`
 
 ## 3. Wire your devices
 Hardware i2c is at pins **14** (SCL) and **16** (SDA).
