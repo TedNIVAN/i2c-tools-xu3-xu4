@@ -23,7 +23,7 @@ Hardware i2c is at pins **14** (SCL) and **16** (SDA).
 ## 4. Scan the devices
 `i2cdetect -y 5`
 
-## 5. Output with the BMP180 sensor*
+## 5. Output with the BMP180 sensor
 
 `odroidxu3:/ # i2cdetect -y 5`<br />                                                   
 `     0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f`<br />
