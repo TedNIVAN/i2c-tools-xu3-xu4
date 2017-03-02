@@ -1,7 +1,7 @@
 # i2c-tools-xu3-xu4
 
 ## 0. Get the binaries
-`git clone https://github.com/TedNIVAN/i2c-tools-xu3-xu4.git`
+`git clone https://github.com/TedNIVAN/i2c-tools-xu3-xu4.git`<br />
 `cd i2c-tools-xu3-xu4`
 
 ## 1. Copy them to the ODROID
