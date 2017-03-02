@@ -18,7 +18,7 @@ cd /system/bin
 chmod 0777 i2c*`
 
 ## 3. Wire your devices
-Hardware i2c at pins **14** (SCL) and **16** (SDA).
+Hardware i2c is at pins **14** (SCL) and **16** (SDA).
 
 ## 4. Scan the devices
 `i2cdetect -y 5`
