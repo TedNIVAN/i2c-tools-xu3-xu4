@@ -24,7 +24,7 @@ Hardware i2c at pins **14** (SCL) and **16** (SDA).
 `i2cdetect -y 5`
 
 ## 5. Output with the BMP180 sensor*
-`
+
 odroidxu3:/system/bin # i2cdetect -y 5                                         
      0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
 00:          -- -- -- -- -- -- -- -- -- -- -- -- -- 
@@ -34,5 +34,5 @@ odroidxu3:/system/bin # i2cdetect -y 5
 40: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
 50: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
 60: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-70: -- -- -- -- -- -- -- 77 `  
+70: -- -- -- -- -- -- -- 77  
 
