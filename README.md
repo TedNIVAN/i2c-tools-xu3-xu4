@@ -5,8 +5,8 @@
 cd i2c-tools-xu3-xu4`
 
 ## 1. Copy them to the ODROID
-`adb connect <your_device_IP_address>
-adb remount
+`adb connect <your_device_IP_address> <br />
+adb remount <br />
 adb push i2cdetect /system/bin
 adb push i2cset /system/bin
 adb push i2cget /system/bin
