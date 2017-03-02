@@ -1,8 +1,8 @@
 # i2c-tools-xu3-xu4
 
 ## 0. Get the binaries
-`git clone https://github.com/TedNIVAN/i2c-tools-xu3-xu4.git
-cd i2c-tools-xu3-xu4`
+`git clone https://github.com/TedNIVAN/i2c-tools-xu3-xu4.git`
+`cd i2c-tools-xu3-xu4`
 
 ## 1. Copy them to the ODROID
 `adb connect <your_device_IP_address> <br />
